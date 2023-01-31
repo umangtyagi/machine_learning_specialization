@@ -1,0 +1,1 @@
+This repository contains some basic assignmenets that I tried during the Machine Learning Specialization by Andrew NG.
